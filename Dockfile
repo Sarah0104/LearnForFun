@@ -1,0 +1,3 @@
+FROM centos_java
+MAINTAINER chloe zhangshasha0104@outlook.com
+RUN echo 
